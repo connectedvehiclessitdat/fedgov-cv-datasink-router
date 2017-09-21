@@ -1,0 +1,2 @@
+This datasink uses the DigitalEdge built in ingest.ini manifest file.
+The connected vehicle pubsub server uses the pubsub-server.ini manifest file.
